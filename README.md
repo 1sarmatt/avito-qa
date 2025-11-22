@@ -48,7 +48,7 @@ pytest test_api.py -v
 ### 1. Клонирование репозитория или скачивание файлов
 
 ```bash
-git clone 1sarmatt/avito-qa
+git clone https://github.com/1sarmatt/avito-qa.git
 cd avito-qa
 
 ```
